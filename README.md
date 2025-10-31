@@ -1,12 +1,12 @@
 🦖 RaptorX - The Bloomberg Intelligence Terminal for the trenches.
 
-RaptorX is an advanced AI-powered intelligence engine specifically designed for the BNB ecosystem. It provides real-time market analysis, technical indicators, and AI-generated trading reports to help traders make informed decisions in the fast-paced world of cryptocurrency trading.
+RaptorX is an advanced AI-powered intelligence engine specifically designed for the BNB Chain ecosystem. It provides real-time market analysis, technical indicators, and AI-generated trading reports to help traders make informed decisions in the fast-paced world of cryptocurrency trading.
 
 🌟 Key Features
 
 🔍 Rex Screener
 
-Real-time Token Analysis: Monitor trending tokens on Solana with live price feeds
+Real-time Token Analysis: Monitor trending tokens on BNB with live price feeds
 
 AI-Generated Reports: Get detailed analysis powered by OpenAI for any token
 
@@ -44,6 +44,6 @@ Volume Analysis: Track trading volume patterns and anomalies
 
 Price Action Indicators: Support/resistance levels, trend analysis
 
-Custom Indicators: Tailored indicators for Solana DeFi tokens
+Custom Indicators: Tailored indicators for BNB tokens
 
 
